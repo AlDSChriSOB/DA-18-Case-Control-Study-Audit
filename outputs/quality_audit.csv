@@ -1,0 +1,7 @@
+column,dtype,missing,missing_pct,distinct
+rownames,int64,0,0.0,88
+agegp,object,0,0.0,6
+alcgp,object,0,0.0,4
+tobgp,object,0,0.0,4
+ncases,int64,0,0.0,10
+ncontrols,int64,0,0.0,27

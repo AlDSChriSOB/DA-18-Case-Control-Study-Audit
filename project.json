@@ -1,0 +1,14 @@
+{
+  "id": 18,
+  "title": "Case Control Study Audit",
+  "question": "How are sampled cancer cases distributed by alcohol group?",
+  "x": "alcgp",
+  "y": "ncases",
+  "mode": "sum",
+  "caveat": "Case counts are sampled study counts, not population cancer incidence or risk; age and tobacco confound comparisons.",
+  "action": "Use appropriate case-control odds models with adjustment for age and tobacco.",
+  "csv": "https://vincentarelbundock.github.io/Rdatasets/csv/datasets/esoph.csv",
+  "doc": "https://vincentarelbundock.github.io/Rdatasets/doc/datasets/esoph.html",
+  "metric_label": "sum of ncases",
+  "method": "Sum recorded ncases within each alcgp category; the row grain is an aggregated cell."
+}

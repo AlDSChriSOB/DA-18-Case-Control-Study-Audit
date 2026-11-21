@@ -1,0 +1,5 @@
+segment,rows_used,metric,minimum,maximum
+0-39g/day,23,29,0,5
+120+,21,45,0,6
+40-79,23,75,0,17
+80-119,21,51,0,9

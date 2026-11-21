@@ -1,0 +1,16 @@
+{
+  "project": "Case Control Study Audit",
+  "executed_utc": "2026-11-21T10:14:13.481678+00:00",
+  "source": "https://vincentarelbundock.github.io/Rdatasets/csv/datasets/esoph.csv",
+  "documentation": "https://vincentarelbundock.github.io/Rdatasets/doc/datasets/esoph.html",
+  "sha256": "140e94cc9beca332888a19eddcb99fabccb380cf1862d025641643a4cae6349d",
+  "raw_rows": 88,
+  "analysis_rows": 88,
+  "excluded_rows": 0,
+  "exact_duplicate_rows": 0,
+  "duplicates_policy": "Retained; duplicate values do not necessarily mean duplicate entities.",
+  "python": "3.12.14",
+  "pandas": "2.2.3",
+  "numpy": "2.3.5",
+  "matplotlib": "3.10.8"
+}
